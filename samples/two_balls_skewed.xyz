@@ -1,0 +1,8 @@
+# Two overlapping balls with an non-orthogonal basis
+
+lattice_vector 10 1 0
+lattice_vector 0 10 2
+lattice_vector 3 0 10
+
+atom 4.5 4.5 4.5 Al
+atom 5.5 5.5 5.5 In

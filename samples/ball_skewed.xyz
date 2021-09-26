@@ -1,0 +1,7 @@
+# A lonely ball with an non-orthogonal basis
+
+lattice_vector 10 2 0
+lattice_vector 0 10 2
+lattice_vector 2 0 10
+
+atom 5 5 5 Al
